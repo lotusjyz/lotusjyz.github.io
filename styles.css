@@ -1,0 +1,60 @@
+
+body {
+  background-color: #74bae3;
+  /*background-image: url(./cats.jpg);*/
+}
+
+#main-title {
+  text-align: center;
+  font-style: oblique;
+}
+
+#intro-text {
+  color: black;
+  font-size: 32px;
+  font-style: oblique;
+  font-family: cursive;
+  width: 60%;
+}
+
+#intro-portrait {
+  text-align: right;
+  left: 460px;
+  margin-top: -230px;
+}
+
+#marshy1 {
+  width: 300px;
+}
+
+#marshy2 {
+  width: 300px;
+  margin-top: -10px;
+}
+
+#about-text {
+  color: black;
+  font-size: 32px;
+  font-style: oblique;
+  font-family: cursive;
+  width: 60%;
+  margin-left: 320px;
+  margin-top: -430px;
+}
+
+#photo-title {
+  margin-top: 10px;
+}
+
+#marshy3 {
+  width: 300px;
+}
+
+#main-title {
+  font-style: oblique;
+  font-family: cursive;
+}
+
+#marshy4 {
+  margin-top: -10px
+}
